@@ -117,3 +117,9 @@ nav.scrolled + .pageChoice {
 body {
     text-align: center;
 }
+
+.skillsContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
